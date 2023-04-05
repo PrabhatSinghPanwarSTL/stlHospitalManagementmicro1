@@ -1,0 +1,21 @@
+
+public class P {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		int mp = 1 ;
+		int m = 2 ;
+		
+		
+		mp = mp+m ;
+		m = mp-m  ;
+		mp = mp-m ;
+		
+		System.out.println(mp);
+		System.out.println(m);
+		
+		
+	}
+
+}
